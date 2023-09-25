@@ -8,6 +8,13 @@ Developing a system that controls the speed of a fan depending on the temperatur
 * LCD
 # Project on Proteus:
 ![image](https://github.com/AmrWahid51/Fan-Controller/assets/145209640/68aa2b5e-2694-4692-a75d-304871c2aed0)
+#Drivers Used:
+* GPIO
+* LCD
+* PWM
+* ADC
+* DC Motor
+* LM35-Sensor
 # Project Functionalities
 we are changing the Temprature using the Sensor and according to it:
 * If the temperature is less than 30C turn off the fan.
